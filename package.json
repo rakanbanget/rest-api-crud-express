@@ -1,0 +1,17 @@
+{
+  "name": "soal1_express",
+  "version": "1.0.0",
+  "description": "soal no 1",
+  "main": "index.js",
+  "scripts": {
+    "app": "nodemon index.js",
+    "test": "npm"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
